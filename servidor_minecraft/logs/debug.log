@@ -4621,3 +4621,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 03:27:02.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/36205, l='ServerLevel[world]', x=-1861.50, y=20.00, z=1345.50]
 [04Sep2025 03:27:52.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 03:27:52.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:30:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Gamerule keepInventory is now set to: true]
+[04Sep2025 03:31:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[04Sep2025 03:31:14.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[04Sep2025 03:32:52.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:32:52.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:37:34.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/43713, l='ServerLevel[world]', x=-3028.45, y=-34.00, z=996.65] died: ButtonHatBoy was slain by Door Knight
+[04Sep2025 03:37:41.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/43714, l='ServerLevel[world]', x=-3028.19, y=-34.00, z=996.44] died: Nova69 was slain by Door Knight
+[04Sep2025 03:37:52.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:37:52.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:39:51.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/44784, l='ServerLevel[world]', x=-3058.30, y=0.00, z=781.35] died: DawnsSlayers was slain by Skeleton Thrasher
+[04Sep2025 03:42:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Spider
+[04Sep2025 03:42:52.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:42:52.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:42:52.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47784, l='ServerLevel[world]', x=-2453.50, y=-9.00, z=1660.50]
+[04Sep2025 03:44:26.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/47989, l='ServerLevel[world]', x=-2670.99, y=-22.00, z=1604.56] died: Ike was shot by Skeleton
+[04Sep2025 03:47:52.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:47:52.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

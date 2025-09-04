@@ -201,10 +201,13 @@
     "criteria": {
       "silver_birch_forest": "2025-09-04 02:12:05 +0000",
       "muddy_river": "2025-09-04 03:21:18 +0000",
+      "frozen_tundra": "2025-09-04 03:38:12 +0000",
+      "redstone_caves": "2025-09-04 03:44:38 +0000",
       "poppy_fields": "2025-09-04 02:09:21 +0000",
       "maple_forest": "2025-09-04 03:13:53 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
       "cold_river": "2025-09-04 02:11:58 +0000",
+      "spires": "2025-09-04 03:37:29 +0000",
       "golden_boreal_taiga": "2025-09-04 03:21:34 +0000"
     },
     "done": false
@@ -213,10 +216,12 @@
     "criteria": {
       "silver_birch_forest": "2025-09-04 02:12:05 +0000",
       "muddy_river": "2025-09-04 03:21:18 +0000",
+      "frozen_tundra": "2025-09-04 03:38:12 +0000",
       "poppy_fields": "2025-09-04 02:09:21 +0000",
       "maple_forest": "2025-09-04 03:13:53 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
       "cold_river": "2025-09-04 02:11:58 +0000",
+      "spires": "2025-09-04 03:37:29 +0000",
       "golden_boreal_taiga": "2025-09-04 03:21:34 +0000"
     },
     "done": false
@@ -1175,9 +1180,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-09-04 03:21:28 +0000",
       "minecraft:taiga": "2025-09-04 03:14:21 +0000",
+      "minecraft:frozen_river": "2025-09-04 03:34:58 +0000",
       "minecraft:windswept_hills": "2025-09-04 02:53:53 +0000",
       "minecraft:river": "2025-09-04 02:40:03 +0000",
+      "minecraft:snowy_plains": "2025-09-04 03:35:06 +0000",
+      "minecraft:dripstone_caves": "2025-09-04 03:36:06 +0000",
+      "minecraft:snowy_taiga": "2025-09-04 03:36:38 +0000",
       "minecraft:forest": "2025-09-04 02:52:34 +0000",
+      "minecraft:windswept_forest": "2025-09-04 03:36:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-04 03:16:27 +0000",
       "minecraft:windswept_gravelly_hills": "2025-09-04 02:52:17 +0000",
       "minecraft:plains": "2025-09-04 02:39:58 +0000"
@@ -1559,6 +1569,90 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-09-04 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-04 03:45:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-04 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-04 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-09-04 03:44:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-04 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-04 03:44:47 +0000"
     },
     "done": true
   },
