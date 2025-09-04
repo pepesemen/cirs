@@ -2022,3 +2022,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 02:35:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [04Sep2025 02:35:21.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Safe Haven]
 [04Sep2025 02:35:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Call For Adventure]
+[04Sep2025 02:40:59.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/10198, l='ServerLevel[world]', x=-2399.14, y=-5.00, z=2084.86] died: gregTheTyrant was slain by Cave Centipede
+[04Sep2025 02:43:39.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['BigXplosion'/12250, l='ServerLevel[world]', x=-2458.13, y=8.50, z=2074.55] died: BigXplosion was impaled on a stalagmite
+[04Sep2025 02:49:36.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/14507, l='ServerLevel[world]', x=-2275.05, y=-42.00, z=1884.54] died: Dany_Why was slain by Dread Hound
+[04Sep2025 02:55:46.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17218, l='ServerLevel[world]', x=-2462.50, y=6.00, z=1612.50]
