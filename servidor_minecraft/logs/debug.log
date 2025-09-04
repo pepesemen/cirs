@@ -4438,3 +4438,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 02:12:52.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 02:13:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
 [04Sep2025 02:15:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Spore]
+[04Sep2025 02:17:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Acquire Hardware]
+[04Sep2025 02:17:52.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 02:17:52.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 02:18:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Diamonds!]
+[04Sep2025 02:21:36.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/4339, l='ServerLevel[world]', x=-2621.46, y=62.76, z=1906.33] died: Mr_Door12323 was slain by Enderman
+[04Sep2025 02:22:52.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 02:22:52.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 02:25:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[04Sep2025 02:26:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Junior Summoner]
+[04Sep2025 02:26:11.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Good Demoman]
+[04Sep2025 02:26:15.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [The Wind Darkening]
+[04Sep2025 02:26:45.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Meet the Team]
