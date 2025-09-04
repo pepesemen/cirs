@@ -2030,3 +2030,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 02:59:01.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
 [04Sep2025 03:00:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [What a Deal!]
 [04Sep2025 03:05:53.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/19800, l='ServerLevel[world]', x=-2405.63, y=-1.00, z=1532.41] died: Entity was slain by Swarmer
+[04Sep2025 03:20:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick drowned
+[04Sep2025 03:20:38.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[04Sep2025 03:24:17.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[04Sep2025 03:24:17.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[04Sep2025 03:24:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Sep2025 03:24:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: backup<--[HERE]
+[04Sep2025 03:24:58.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Sep2025 03:24:58.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: +<--[HERE]
+[04Sep2025 03:26:18.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/127.107.186.213:34955] logged in with entity id 35259 at (-1810.6575528470132, 73.09632722251261, 1364.326643716399)
+[04Sep2025 03:26:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[04Sep2025 03:26:18.859] [Server thread/INFO] [Jade/]: Syncing config to mainyorick (d3e0655a-278c-3bed-9fdf-7faa1773f611)
+[04Sep2025 03:27:00.779] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/36152, l='ServerLevel[world]', x=-1855.50, y=17.00, z=1343.50]
+[04Sep2025 03:27:02.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/36205, l='ServerLevel[world]', x=-1861.50, y=20.00, z=1345.50]
