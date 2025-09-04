@@ -201,6 +201,7 @@
     "criteria": {
       "silver_birch_forest": "2025-09-04 02:12:05 +0000",
       "muddy_river": "2025-09-04 03:21:18 +0000",
+      "autumnal_maple_forest": "2025-09-04 04:11:34 +0000",
       "frozen_tundra": "2025-09-04 03:38:12 +0000",
       "redstone_caves": "2025-09-04 03:44:38 +0000",
       "poppy_fields": "2025-09-04 02:09:21 +0000",
@@ -216,6 +217,7 @@
     "criteria": {
       "silver_birch_forest": "2025-09-04 02:12:05 +0000",
       "muddy_river": "2025-09-04 03:21:18 +0000",
+      "autumnal_maple_forest": "2025-09-04 04:11:34 +0000",
       "frozen_tundra": "2025-09-04 03:38:12 +0000",
       "poppy_fields": "2025-09-04 02:09:21 +0000",
       "maple_forest": "2025-09-04 03:13:53 +0000",
@@ -1628,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-04 04:07:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-04 03:57:39 +0000"
@@ -1637,6 +1645,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-09-04 04:06:55 +0000"
     },
     "done": true
   },
@@ -1742,6 +1756,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-09-04 04:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-04 03:50:17 +0000"
@@ -1751,6 +1771,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-04 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 04:05:00 +0000"
     },
     "done": true
   },
@@ -1850,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-04 04:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-04 03:50:17 +0000"
@@ -1859,6 +1891,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-09-04 04:05:00 +0000"
     },
     "done": true
   },
@@ -1958,9 +1996,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-04 04:00:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-04 03:57:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-09-04 04:05:00 +0000"
     },
     "done": true
   },
@@ -1979,6 +2029,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-09-04 03:52:08 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-04 04:06:58 +0000"
     },
     "done": true
   },
@@ -2015,6 +2071,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-04 03:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-09-04 03:59:20 +0000"
     },
     "done": true
   },

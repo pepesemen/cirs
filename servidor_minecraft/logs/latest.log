@@ -2055,3 +2055,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 03:51:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Take Aim]
 [04Sep2025 03:55:33.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/51866, l='ServerLevel[world]', x=-2502.30, y=0.55, z=1875.11] died: Whisper was slain by Skeleton Thrasher
 [04Sep2025 03:56:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick went up in flames
+[04Sep2025 04:07:01.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Not Today, Thank You]
+[04Sep2025 04:08:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick went up in flames
+[04Sep2025 04:12:12.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[04Sep2025 04:12:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
