@@ -2052,3 +2052,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 03:42:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Spider
 [04Sep2025 03:42:52.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47784, l='ServerLevel[world]', x=-2453.50, y=-9.00, z=1660.50]
 [04Sep2025 03:44:26.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/47989, l='ServerLevel[world]', x=-2670.99, y=-22.00, z=1604.56] died: Ike was shot by Skeleton
+[04Sep2025 03:51:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Take Aim]
+[04Sep2025 03:55:33.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/51866, l='ServerLevel[world]', x=-2502.30, y=0.55, z=1875.11] died: Whisper was slain by Skeleton Thrasher
+[04Sep2025 03:56:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick went up in flames

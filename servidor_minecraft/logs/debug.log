@@ -4638,3 +4638,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [04Sep2025 03:44:26.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/47989, l='ServerLevel[world]', x=-2670.99, y=-22.00, z=1604.56] died: Ike was shot by Skeleton
 [04Sep2025 03:47:52.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 03:47:52.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:51:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Take Aim]
+[04Sep2025 03:52:52.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:52:52.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 03:55:33.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/51866, l='ServerLevel[world]', x=-2502.30, y=0.55, z=1875.11] died: Whisper was slain by Skeleton Thrasher
+[04Sep2025 03:56:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick went up in flames
+[04Sep2025 03:57:52.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 03:57:52.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
