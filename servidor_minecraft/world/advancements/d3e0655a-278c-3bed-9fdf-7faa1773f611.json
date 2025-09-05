@@ -211,6 +211,7 @@
       "frozen_pine_taiga": "2025-09-05 02:36:14 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
       "blackstone_basin": "2025-09-05 19:37:53 +0000",
+      "infernal_holt": "2025-09-05 20:40:21 +0000",
       "cold_boreal_taiga": "2025-09-05 01:44:48 +0000",
       "cold_river": "2025-09-04 02:11:58 +0000",
       "spires": "2025-09-04 03:37:29 +0000",
@@ -2861,7 +2862,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-09-05 19:37:23 +0000",
-      "blackstone_basin": "2025-09-05 19:37:53 +0000"
+      "blackstone_basin": "2025-09-05 19:37:53 +0000",
+      "infernal_holt": "2025-09-05 20:40:21 +0000"
     },
     "done": false
   },
@@ -3081,6 +3083,12 @@
     },
     "done": true
   },
+  "spore:inf_construct": {
+    "criteria": {
+      "hurt_infected": "2025-09-05 20:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-05 20:28:01 +0000"
@@ -3144,6 +3152,18 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-05 19:39:36 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_infected": "2025-09-05 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-05 20:51:04 +0000"
     },
     "done": true
   },

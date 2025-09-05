@@ -1539,3 +1539,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 20:33:33.882] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:nether_portal took 2 ms
 [05Sep2025 20:35:21.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 20:35:21.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 20:39:34.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=50, z=223} BlockPos{x=-358, y=49, z=224}
+[05Sep2025 20:40:21.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 20:40:21.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 20:41:35.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Sep2025 20:41:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick burned to death
+[05Sep2025 20:45:21.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 20:45:21.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 20:47:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[05Sep2025 20:47:48.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[05Sep2025 20:47:57.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21404, l='ServerLevel[world]', x=-3163.84, y=68.25, z=1539.60] died, message: 'Librarian was slain by Brotkatze'
+[05Sep2025 20:48:06.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/21400, l='ServerLevel[world]', x=-3168.65, y=67.56, z=1548.68] died, message: 'Fletcher was slain by Brotkatze'
+[05Sep2025 20:48:21.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21403, l='ServerLevel[world]', x=-3181.79, y=67.00, z=1552.78] died, message: 'Librarian was fungi-fied by Brotkatze'
+[05Sep2025 20:48:22.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21401, l='ServerLevel[world]', x=-3150.95, y=68.00, z=1548.84] died, message: 'Librarian was slain by Usurper'
+[05Sep2025 20:48:42.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21402, l='ServerLevel[world]', x=-3140.00, y=69.00, z=1520.50] died, message: 'Librarian withered away'
+[05Sep2025 20:49:09.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 20:50:21.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 20:50:21.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 20:53:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Pregnant Woman Coming Through]
+[05Sep2025 20:55:21.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 20:55:21.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
