@@ -249,3 +249,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 19:53:53.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/5095, l='ServerLevel[world]', x=-3011.74, y=71.00, z=1783.29] died: gregTheTyrant was slain by Spider
 [05Sep2025 20:06:51.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
 [05Sep2025 20:08:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 20:33:33.882] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:nether_portal took 2 ms
