@@ -835,6 +835,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-09-05 02:45:17 +0000",
       "silver_birch_log": "2025-09-04 02:26:20 +0000"
     },
     "done": false
@@ -2216,6 +2217,18 @@
     },
     "done": true
   },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-09-05 02:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-05 02:54:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-09-05 02:21:30 +0000"
@@ -2294,6 +2307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-05 02:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-09-05 01:21:48 +0000"
@@ -2330,6 +2349,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:every_bit_of_the_rainbow": {
     "criteria": {
       "white_snowbelle": "2025-09-05 02:20:01 +0000"
@@ -2339,6 +2364,18 @@
   "spore:inf_pillager": {
     "criteria": {
       "hurt_infected": "2025-09-05 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-05 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 02:45:17 +0000"
     },
     "done": true
   },
@@ -2384,6 +2421,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-05 02:45:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-05 02:08:37 +0000"
@@ -2420,9 +2469,21 @@
     },
     "done": true
   },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_infected": "2025-09-05 03:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
     },
     "done": true
   },
@@ -2468,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-05 03:14:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
     "criteria": {
       "has_white_snowbelle": "2025-09-05 02:20:01 +0000"
@@ -2486,9 +2553,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-05 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
     },
     "done": true
   },
@@ -2513,6 +2598,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-09-05 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
     },
     "done": true
   },
@@ -2570,9 +2661,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-09-05 02:20:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
     },
     "done": true
   },
@@ -2588,9 +2691,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-05 02:54:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-09-05 02:20:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-09-05 02:45:17 +0000"
     },
     "done": true
   },
@@ -2627,6 +2742,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-05 02:08:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-09-05 02:50:03 +0000"
     },
     "done": true
   },

@@ -1572,3 +1572,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:38:52.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 02:43:52.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 02:43:52.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:48:52.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:48:52.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:53:52.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:53:52.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:56:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Propagator of Infestation]
+[05Sep2025 02:58:52.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:58:52.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:59:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[05Sep2025 03:02:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Spore Inquisition Reference]
+[05Sep2025 03:03:09.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 03:03:52.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:03:52.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:04:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[05Sep2025 03:05:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 03:08:52.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:08:52.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:13:52.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:13:52.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:14:44.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Hot Stuff]
+[05Sep2025 03:18:52.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:18:52.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:20:24.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[05Sep2025 03:20:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[05Sep2025 03:23:52.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:23:52.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

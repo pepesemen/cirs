@@ -269,3 +269,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:36:00.618] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15468, l='ServerLevel[world]', x=-3007.14, y=69.00, z=1569.96, removed=DISCARDED]
 [05Sep2025 02:37:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15468, l='ServerLevel[world]', x=-3007.14, y=69.00, z=1569.96, removed=DISCARDED]
 [05Sep2025 02:38:00.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 02:56:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Propagator of Infestation]
+[05Sep2025 02:59:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[05Sep2025 03:02:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Spore Inquisition Reference]
+[05Sep2025 03:03:09.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 03:04:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[05Sep2025 03:05:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 03:14:44.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Hot Stuff]
+[05Sep2025 03:20:24.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[05Sep2025 03:20:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
