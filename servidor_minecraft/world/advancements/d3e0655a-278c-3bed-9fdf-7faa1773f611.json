@@ -273,7 +273,8 @@
       "minecraft:enderman": "2025-09-04 02:33:50 +0000",
       "minecraft:stray": "2025-09-05 01:52:25 +0000",
       "minecraft:zombie": "2025-09-04 02:25:55 +0000",
-      "minecraft:drowned": "2025-09-05 02:16:24 +0000"
+      "minecraft:drowned": "2025-09-05 02:16:24 +0000",
+      "minecraft:zombie_villager": "2025-09-05 19:52:01 +0000"
     },
     "done": false
   },
@@ -759,7 +760,9 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_0": "2025-09-04 02:23:17 +0000"
+      "charm_collector_1": "2025-09-05 19:53:05 +0000",
+      "charm_collector_0": "2025-09-04 02:23:17 +0000",
+      "charm_collector_3": "2025-09-05 19:52:40 +0000"
     },
     "done": false
   },
@@ -2777,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-05 19:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-05 19:38:13 +0000"
@@ -2788,6 +2797,12 @@
       "minecraft:nether_wastes": "2025-09-05 19:39:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-05 19:52:05 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -2916,6 +2931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-05 19:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-09-05 19:38:13 +0000"
@@ -2949,6 +2970,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-05 19:38:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-09-05 19:52:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-05 20:09:44 +0000"
     },
     "done": true
   },
