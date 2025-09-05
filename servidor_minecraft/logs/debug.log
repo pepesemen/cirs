@@ -1597,3 +1597,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 03:20:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
 [05Sep2025 03:23:52.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 03:23:52.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:28:52.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:28:52.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 03:33:52.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 03:33:52.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
