@@ -1550,3 +1550,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:11:01.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21727, l='ServerLevel[world]', x=-3263.50, y=-8.00, z=1731.50]
 [05Sep2025 02:13:52.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 02:13:52.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:15:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Isn't It Iron Pick]
+[05Sep2025 02:18:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Life turned out to be a comedy]
+[05Sep2025 02:18:52.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:18:52.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:19:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
+[05Sep2025 02:23:52.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:23:52.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

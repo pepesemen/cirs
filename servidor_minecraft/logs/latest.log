@@ -259,3 +259,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:11:01.368] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21725, l='ServerLevel[world]', x=-3265.50, y=-8.00, z=1727.50]
 [05Sep2025 02:11:01.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21726, l='ServerLevel[world]', x=-3264.50, y=-8.00, z=1728.50]
 [05Sep2025 02:11:01.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21727, l='ServerLevel[world]', x=-3263.50, y=-8.00, z=1731.50]
+[05Sep2025 02:15:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Isn't It Iron Pick]
+[05Sep2025 02:18:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Life turned out to be a comedy]
+[05Sep2025 02:19:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
