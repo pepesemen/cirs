@@ -262,3 +262,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:15:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Isn't It Iron Pick]
 [05Sep2025 02:18:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Life turned out to be a comedy]
 [05Sep2025 02:19:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
+[05Sep2025 02:27:34.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/27941, l='ServerLevel[world]', x=-2964.00, y=32.00, z=2248.89] died: ButtonHatBoy was blown up by Creeper
+[05Sep2025 02:29:00.750] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:pillager_outpost (minecraft:pillager_outpost) took 3 ms
+[05Sep2025 02:30:21.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/29290, l='ServerLevel[world]', x=-2876.61, y=13.00, z=2118.49] died: Ike was slain by Swarmer
