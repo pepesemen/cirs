@@ -242,3 +242,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 01:14:20.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
 [05Sep2025 01:16:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick went up in flames
 [05Sep2025 01:17:06.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/1847, l='ServerLevel[world]', x=-2521.90, y=65.00, z=1610.70] died: TVGuy was slain by Door Knight
+[05Sep2025 01:28:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Go Back to Canada]
+[05Sep2025 01:29:11.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Exorcism]
+[05Sep2025 01:32:25.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Intruder Alert]
