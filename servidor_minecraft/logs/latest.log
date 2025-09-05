@@ -265,3 +265,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 02:27:34.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/27941, l='ServerLevel[world]', x=-2964.00, y=32.00, z=2248.89] died: ButtonHatBoy was blown up by Creeper
 [05Sep2025 02:29:00.750] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:pillager_outpost (minecraft:pillager_outpost) took 3 ms
 [05Sep2025 02:30:21.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/29290, l='ServerLevel[world]', x=-2876.61, y=13.00, z=2118.49] died: Ike was slain by Swarmer
+[05Sep2025 02:35:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[05Sep2025 02:36:00.618] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15468, l='ServerLevel[world]', x=-3007.14, y=69.00, z=1569.96, removed=DISCARDED]
+[05Sep2025 02:37:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15468, l='ServerLevel[world]', x=-3007.14, y=69.00, z=1569.96, removed=DISCARDED]
+[05Sep2025 02:38:00.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
