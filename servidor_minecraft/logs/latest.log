@@ -245,3 +245,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [05Sep2025 01:28:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Go Back to Canada]
 [05Sep2025 01:29:11.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Exorcism]
 [05Sep2025 01:32:25.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Intruder Alert]
+[05Sep2025 01:34:05.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Voluntary Exile]
+[05Sep2025 01:34:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Fighting Nightmares]
+[05Sep2025 01:36:45.455] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_snowy) took 803 ms
+[05Sep2025 01:46:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[05Sep2025 01:46:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[05Sep2025 01:47:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has completed the challenge [Hero of the Village]
+[05Sep2025 01:48:54.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/16025, l='ServerLevel[world]', x=-3120.82, y=64.00, z=1632.10] died: Whisper was slain by Spider

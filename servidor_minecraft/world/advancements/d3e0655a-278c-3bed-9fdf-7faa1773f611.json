@@ -208,6 +208,7 @@
       "poppy_fields": "2025-09-04 02:09:21 +0000",
       "maple_forest": "2025-09-04 03:13:53 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
+      "cold_boreal_taiga": "2025-09-05 01:44:48 +0000",
       "cold_river": "2025-09-04 02:11:58 +0000",
       "spires": "2025-09-04 03:37:29 +0000",
       "golden_boreal_taiga": "2025-09-04 03:21:34 +0000"
@@ -223,6 +224,7 @@
       "poppy_fields": "2025-09-04 02:09:21 +0000",
       "maple_forest": "2025-09-04 03:13:53 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
+      "cold_boreal_taiga": "2025-09-05 01:44:48 +0000",
       "cold_river": "2025-09-04 02:11:58 +0000",
       "spires": "2025-09-04 03:37:29 +0000",
       "golden_boreal_taiga": "2025-09-04 03:21:34 +0000"
@@ -258,12 +260,14 @@
     "criteria": {
       "minecraft:pillager": "2025-09-04 02:11:20 +0000",
       "minecraft:skeleton": "2025-09-04 02:27:15 +0000",
+      "minecraft:ravager": "2025-09-05 01:41:14 +0000",
       "minecraft:vindicator": "2025-09-04 02:50:52 +0000",
       "minecraft:spider": "2025-09-04 02:26:09 +0000",
       "minecraft:creeper": "2025-09-04 02:26:43 +0000",
       "minecraft:witch": "2025-09-04 02:19:10 +0000",
       "minecraft:cave_spider": "2025-09-04 03:53:12 +0000",
       "minecraft:enderman": "2025-09-04 02:33:50 +0000",
+      "minecraft:stray": "2025-09-05 01:52:25 +0000",
       "minecraft:zombie": "2025-09-04 02:25:55 +0000"
     },
     "done": false
@@ -1291,6 +1295,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-09-05 01:32:25 +0000",
       "illager_camp": "2025-09-04 02:51:16 +0000"
     },
     "done": false
@@ -2166,6 +2171,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-05 01:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-05 01:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-05 01:20:38 +0000"
@@ -2181,6 +2198,48 @@
   "spore:knight": {
     "criteria": {
       "hurt_infected": "2025-09-05 01:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-05 01:34:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-05 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-09-05 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-09-05 01:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-05 01:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-05 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-05 01:32:51 +0000"
     },
     "done": true
   },
@@ -2205,6 +2264,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-05 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 01:40:04 +0000"
     },
     "done": true
   },
@@ -2250,6 +2315,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-05 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-05 01:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-05 01:20:38 +0000"
@@ -2268,6 +2345,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-09-05 01:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-05 01:21:48 +0000"
@@ -2277,6 +2360,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-05 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-05 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-05 01:30:15 +0000"
     },
     "done": true
   },
