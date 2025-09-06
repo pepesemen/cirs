@@ -1522,3 +1522,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [06Sep2025 03:29:15.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/10031, l='ServerLevel[world]', x=-3455.11, y=64.00, z=1791.64] died: Helldwin was slain by Door Knight
 [06Sep2025 03:32:21.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 03:32:21.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:33:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[06Sep2025 03:34:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:37:21.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 03:37:21.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:41:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Radiation Vibe]
+[06Sep2025 03:42:21.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 03:42:21.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:42:21.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14658, l='ServerLevel[world]', x=-3585.50, y=72.00, z=2480.50]
+[06Sep2025 03:42:21.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14659, l='ServerLevel[world]', x=-3583.50, y=74.00, z=2481.50]
+[06Sep2025 03:42:21.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14660, l='ServerLevel[world]', x=-3584.50, y=74.00, z=2482.50]
+[06Sep2025 03:42:21.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14661, l='ServerLevel[world]', x=-3584.50, y=73.00, z=2482.50]
+[06Sep2025 03:42:21.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14662, l='ServerLevel[world]', x=-3586.50, y=74.00, z=2483.50]
+[06Sep2025 03:42:21.967] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14663, l='ServerLevel[world]', x=-3584.50, y=74.00, z=2483.50]
+[06Sep2025 03:42:21.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14664, l='ServerLevel[world]', x=-3586.50, y=73.00, z=2483.50]
+[06Sep2025 03:42:21.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14665, l='ServerLevel[world]', x=-3584.50, y=73.00, z=2483.50]
+[06Sep2025 03:42:21.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/14666, l='ServerLevel[world]', x=-3587.50, y=74.00, z=2484.50]
