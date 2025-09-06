@@ -1502,3 +1502,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [06Sep2025 03:06:59.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/1220, l='ServerLevel[world]', x=-3147.27, y=-49.00, z=1793.30] died: PedroHenrry was blown up by Skeleton Demoman
 [06Sep2025 03:07:21.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 03:07:21.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:12:21.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 03:12:21.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:13:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Grave Ravager]
+[06Sep2025 03:13:29.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:16:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Krampus Henchman
+[06Sep2025 03:16:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[06Sep2025 03:17:21.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 03:17:21.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 03:18:21.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/7066, l='ServerLevel[world]', x=-3439.83, y=-19.00, z=1758.23] died: Mr_Door12323 was doomed to fall by Zombie
+[06Sep2025 03:19:22.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:19:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[06Sep2025 03:21:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]

@@ -240,3 +240,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [06Sep2025 03:03:55.836] [Server thread/INFO] [Jade/]: Syncing config to mainyorick (d3e0655a-278c-3bed-9fdf-7faa1773f611)
 [06Sep2025 03:04:16.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
 [06Sep2025 03:06:59.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/1220, l='ServerLevel[world]', x=-3147.27, y=-49.00, z=1793.30] died: PedroHenrry was blown up by Skeleton Demoman
+[06Sep2025 03:13:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Grave Ravager]
+[06Sep2025 03:13:29.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:16:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Krampus Henchman
+[06Sep2025 03:16:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[06Sep2025 03:18:21.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/7066, l='ServerLevel[world]', x=-3439.83, y=-19.00, z=1758.23] died: Mr_Door12323 was doomed to fall by Zombie
+[06Sep2025 03:19:22.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:19:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[06Sep2025 03:21:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
