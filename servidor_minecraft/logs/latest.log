@@ -248,3 +248,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [06Sep2025 03:19:22.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [06Sep2025 03:19:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
 [06Sep2025 03:21:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[06Sep2025 03:26:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Senior Summoner]
+[06Sep2025 03:29:15.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/10031, l='ServerLevel[world]', x=-3455.11, y=64.00, z=1791.64] died: Helldwin was slain by Door Knight

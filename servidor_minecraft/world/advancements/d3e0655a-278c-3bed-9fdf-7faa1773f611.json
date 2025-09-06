@@ -251,7 +251,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-09-04 02:09:57 +0000",
-      "bread": "2025-09-04 02:09:38 +0000"
+      "bread": "2025-09-04 02:09:38 +0000",
+      "rotten_flesh": "2025-09-06 03:28:29 +0000"
     },
     "done": false
   },
@@ -273,6 +274,7 @@
       "minecraft:cave_spider": "2025-09-04 03:53:12 +0000",
       "minecraft:enderman": "2025-09-04 02:33:50 +0000",
       "minecraft:stray": "2025-09-05 01:52:25 +0000",
+      "minecraft:vex": "2025-09-06 03:23:14 +0000",
       "minecraft:zombie": "2025-09-04 02:25:55 +0000",
       "minecraft:drowned": "2025-09-05 02:16:24 +0000",
       "minecraft:zombie_villager": "2025-09-05 19:52:01 +0000"
@@ -3191,6 +3193,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-09-06 03:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-09-06 03:12:10 +0000"
@@ -3209,9 +3217,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-06 03:24:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:grave_ravager": {
     "criteria": {
       "grave_ravager_0": "2025-09-06 03:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-06 03:24:02 +0000"
     },
     "done": true
   },
