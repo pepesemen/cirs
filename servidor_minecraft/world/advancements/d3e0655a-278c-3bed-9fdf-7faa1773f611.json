@@ -3369,6 +3369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-07 04:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-09-07 03:24:02 +0000"
@@ -3507,6 +3513,12 @@
     },
     "done": true
   },
+  "spore:inf_vindicator": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 04:18:34 +0000"
+    },
+    "done": true
+  },
   "spore:inf_trader": {
     "criteria": {
       "hurt_infected": "2025-09-07 02:39:33 +0000"
@@ -3591,6 +3603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-07 04:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-09-07 03:12:13 +0000"
@@ -3656,6 +3674,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-07 04:13:55 +0000"
     },
     "done": true
   },

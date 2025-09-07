@@ -280,3 +280,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 03:52:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has completed the challenge [It Spreads]
 [07Sep2025 03:52:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sneak 100]
 [07Sep2025 03:54:25.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was doomed to fall by Phayres
+[07Sep2025 04:01:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Brainiac
+[07Sep2025 04:06:17.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[07Sep2025 04:06:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[07Sep2025 04:08:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 04:18:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by Infected Vindicator
+[07Sep2025 04:18:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
