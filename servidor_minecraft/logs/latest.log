@@ -270,3 +270,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 03:13:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [07Sep2025 03:16:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Enchanter]
 [07Sep2025 03:17:28.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Hot Rod]
+[07Sep2025 03:32:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick tried to swim in lava
