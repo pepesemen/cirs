@@ -286,3 +286,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 04:08:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [07Sep2025 04:18:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by Infected Vindicator
 [07Sep2025 04:18:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[07Sep2025 04:20:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 04:20:59.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/34430, l='ServerLevel[world]', x=-3681.47, y=62.72, z=2411.28] died: Deyvid was slain by mainyorick
+[07Sep2025 04:27:53.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[07Sep2025 04:28:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 04:29:32.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/37192, l='ServerLevel[world]', x=-3744.50, y=2.00, z=2444.50]
+[07Sep2025 04:29:32.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/37193, l='ServerLevel[world]', x=-3745.50, y=4.00, z=2444.50]
+[07Sep2025 04:29:35.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/37202, l='ServerLevel[world]', x=-3746.50, y=4.00, z=2446.50]
+[07Sep2025 04:30:13.068] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/37322, l='ServerLevel[world]', x=-3750.50, y=8.00, z=2445.50]
