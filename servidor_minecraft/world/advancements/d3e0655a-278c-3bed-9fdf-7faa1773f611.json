@@ -210,6 +210,7 @@
       "maple_forest": "2025-09-04 03:13:53 +0000",
       "frozen_pine_taiga": "2025-09-05 02:36:14 +0000",
       "boreal_forest": "2025-09-04 03:14:29 +0000",
+      "glistering_meadow": "2025-09-07 03:00:27 +0000",
       "blackstone_basin": "2025-09-05 19:37:53 +0000",
       "infernal_holt": "2025-09-05 20:40:21 +0000",
       "cold_boreal_taiga": "2025-09-05 01:44:48 +0000",
@@ -265,13 +266,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-04 02:11:20 +0000",
+      "minecraft:blaze": "2025-09-07 03:03:48 +0000",
       "minecraft:skeleton": "2025-09-04 02:27:15 +0000",
       "minecraft:ravager": "2025-09-05 01:41:14 +0000",
       "minecraft:vindicator": "2025-09-04 02:50:52 +0000",
+      "minecraft:magma_cube": "2025-09-07 02:55:31 +0000",
       "minecraft:spider": "2025-09-04 02:26:09 +0000",
+      "minecraft:piglin_brute": "2025-09-07 02:54:43 +0000",
       "minecraft:creeper": "2025-09-04 02:26:43 +0000",
+      "minecraft:zombified_piglin": "2025-09-07 02:58:49 +0000",
       "minecraft:witch": "2025-09-04 02:19:10 +0000",
       "minecraft:cave_spider": "2025-09-04 03:53:12 +0000",
+      "minecraft:piglin": "2025-09-07 02:54:46 +0000",
       "minecraft:enderman": "2025-09-04 02:33:50 +0000",
       "minecraft:stray": "2025-09-05 01:52:25 +0000",
       "minecraft:vex": "2025-09-06 03:23:14 +0000",
@@ -2800,7 +2806,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-09-05 19:37:23 +0000",
       "blackstone_basin": "2025-09-05 19:37:53 +0000",
-      "infernal_holt": "2025-09-05 20:40:21 +0000"
+      "infernal_holt": "2025-09-05 20:40:21 +0000",
+      "glistering_meadow": "2025-09-07 03:00:27 +0000"
     },
     "done": false
   },
@@ -2914,7 +2921,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-09-05 19:39:05 +0000"
+      "minecraft:nether_wastes": "2025-09-05 19:39:05 +0000",
+      "minecraft:basalt_deltas": "2025-09-07 03:00:18 +0000"
     },
     "done": false
   },
@@ -3344,6 +3352,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-07 02:55:17 +0000"
+    },
+    "done": true
+  },
   "spore:inf_witch": {
     "criteria": {
       "hurt_infected": "2025-09-07 02:39:04 +0000"
@@ -3356,9 +3382,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-09-07 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-07 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 02:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-09-07 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-07 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-09-07 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 02:54:48 +0000"
+    },
+    "done": true
+  },
   "spore:inf_trader": {
     "criteria": {
       "hurt_infected": "2025-09-07 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-09-07 03:03:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-07 02:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-07 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-07 02:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-07 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-09-07 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-09-07 02:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-07 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-07 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-07 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-07 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-07 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-07 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-07 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-07 03:04:01 +0000"
     },
     "done": true
   },
