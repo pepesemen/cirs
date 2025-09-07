@@ -1210,6 +1210,7 @@
       "minecraft:lush_caves": "2025-09-04 03:54:04 +0000",
       "minecraft:windswept_forest": "2025-09-04 03:36:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-04 03:16:27 +0000",
+      "minecraft:meadow": "2025-09-07 02:39:32 +0000",
       "minecraft:windswept_gravelly_hills": "2025-09-04 02:52:17 +0000",
       "minecraft:plains": "2025-09-04 02:39:58 +0000"
     },
@@ -3340,6 +3341,24 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-09-06 03:47:22 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-09-07 02:35:07 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 02:39:33 +0000"
     },
     "done": true
   },

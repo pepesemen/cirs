@@ -241,3 +241,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 02:30:11.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
 [07Sep2025 02:35:54.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Joker_de_Coeur'/2073, l='ServerLevel[world]', x=-3560.55, y=-14.36, z=2473.55] died: Joker_de_Coeur was melted by acid
 [07Sep2025 02:37:56.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Mr_Door12323'/2547, l='ServerLevel[world]', x=-3578.88, y=-10.36, z=2408.43] died: Mr_Door12323 was melted by acid
+[07Sep2025 02:40:54.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/3730, l='ServerLevel[world]', x=-3561.50, y=73.00, z=2484.50]
+[07Sep2025 02:40:54.723] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/3731, l='ServerLevel[world]', x=-3561.50, y=73.00, z=2485.50]
+[07Sep2025 02:40:57.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/3743, l='ServerLevel[world]', x=-3562.50, y=74.00, z=2487.50]
+[07Sep2025 02:42:30.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/2232, l='ServerLevel[world]', x=-3577.86, y=-21.00, z=2501.34] died: Mr_Door12323 died
+[07Sep2025 02:44:48.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mainyorick> da
+[07Sep2025 02:45:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Crisis Adverted]
+[07Sep2025 02:48:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Ice Bucket Challenge]
