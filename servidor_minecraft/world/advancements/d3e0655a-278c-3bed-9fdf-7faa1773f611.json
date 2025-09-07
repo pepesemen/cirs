@@ -850,6 +850,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "larch_log": "2025-09-05 02:45:17 +0000",
+      "brimwood_log": "2025-09-07 03:10:04 +0000",
       "silver_birch_log": "2025-09-04 02:26:20 +0000"
     },
     "done": false
@@ -3412,9 +3413,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
     },
     "done": true
   },
@@ -3430,6 +3443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "spore:inf_trader": {
     "criteria": {
       "hurt_infected": "2025-09-07 02:39:33 +0000"
@@ -3442,9 +3461,21 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:10:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-07 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood_from_brimwood_log_magma": {
+    "criteria": {
+      "has_log": "2025-09-07 03:10:06 +0000"
     },
     "done": true
   },
@@ -3454,9 +3485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-09-07 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
     },
     "done": true
   },
@@ -3466,9 +3509,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-09-07 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 03:10:04 +0000"
     },
     "done": true
   },
@@ -3502,6 +3557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-09-07 03:04:01 +0000"
@@ -3520,9 +3581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-09-07 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-07 03:12:13 +0000"
     },
     "done": true
   },
@@ -3553,6 +3626,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-07 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-09-07 03:05:56 +0000"
     },
     "done": true
   },
