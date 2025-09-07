@@ -271,3 +271,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 03:16:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Enchanter]
 [07Sep2025 03:17:28.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Hot Rod]
 [07Sep2025 03:32:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick tried to swim in lava
+[07Sep2025 03:42:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick withered away
+[07Sep2025 03:43:36.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Shelf Life]
+[07Sep2025 03:43:57.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/17236, l='ServerLevel[world]', x=-3663.88, y=72.00, z=2372.21] died: Nova69 was burnt to a crisp whilst fighting Seared Spirit
+[07Sep2025 03:49:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Phayres
+[07Sep2025 03:49:47.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/19483, l='ServerLevel[world]', x=-3793.81, y=-24.00, z=2361.92] died: Tabcaps was slain by Spiders Mother
+[07Sep2025 03:51:01.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[07Sep2025 03:52:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has completed the challenge [It Spreads]
+[07Sep2025 03:52:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sneak 100]
+[07Sep2025 03:54:25.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was doomed to fall by Phayres
