@@ -241,3 +241,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 19:13:23.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
 [07Sep2025 19:28:29.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [07Sep2025 19:32:32.358] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #spore:laboratories (spore:mines) took 75 ms
+[07Sep2025 19:35:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[07Sep2025 19:36:28.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 19:36:36.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[07Sep2025 19:36:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
