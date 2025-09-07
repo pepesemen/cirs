@@ -259,3 +259,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 16:55:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Alex's Caves]
 [07Sep2025 16:56:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [07Sep2025 17:04:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick forgot Knight was a bioweapon
+[07Sep2025 17:24:29.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13872, l='ServerLevel[world]', x=-4011.49, y=78.00, z=2219.86] died, message: 'Unemployed suffocated in a wall'
+[07Sep2025 17:27:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[07Sep2025 17:29:00.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 17:31:15.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/16400, l='ServerLevel[world]', x=-4056.18, y=-28.00, z=2637.93] died: xXFuryXx was slain by Dire Hound Leader
+[07Sep2025 17:34:41.105] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_taiga) took 0 ms
+[07Sep2025 17:36:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Pic-A-Nic Basket?]
+[07Sep2025 17:38:27.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18654, l='ServerLevel[world]', x=-3961.86, y=95.02, z=2287.61] died, message: 'Unemployed forgot Infected Human was a bioweapon'
+[07Sep2025 17:41:09.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18795, l='ServerLevel[world]', x=-3988.17, y=89.50, z=2230.47] died, message: 'Unemployed suffocated in a wall'
+[07Sep2025 17:53:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Mine? Mine? Mine?]
+[07Sep2025 17:57:28.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Sep2025 17:57:28.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Sep2025 17:57:28.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

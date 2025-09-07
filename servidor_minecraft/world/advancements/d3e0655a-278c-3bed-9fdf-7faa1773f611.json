@@ -1212,10 +1212,13 @@
       "minecraft:taiga": "2025-09-04 03:14:21 +0000",
       "minecraft:frozen_river": "2025-09-04 03:34:58 +0000",
       "minecraft:windswept_hills": "2025-09-04 02:53:53 +0000",
+      "minecraft:beach": "2025-09-07 17:28:53 +0000",
       "minecraft:river": "2025-09-04 02:40:03 +0000",
       "minecraft:snowy_plains": "2025-09-04 03:35:06 +0000",
+      "minecraft:stony_shore": "2025-09-07 17:29:12 +0000",
       "minecraft:dripstone_caves": "2025-09-04 03:36:06 +0000",
       "minecraft:snowy_taiga": "2025-09-04 03:36:38 +0000",
+      "minecraft:cold_ocean": "2025-09-07 17:40:05 +0000",
       "minecraft:forest": "2025-09-04 02:52:34 +0000",
       "minecraft:lush_caves": "2025-09-04 03:54:04 +0000",
       "minecraft:windswept_forest": "2025-09-04 03:36:37 +0000",
@@ -3846,6 +3849,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-09-07 17:22:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-07 17:53:59 +0000"
+    },
+    "done": true
+  },
   "spore:nuclea": {
     "criteria": {
       "hurt_infected": "2025-09-07 16:53:00 +0000"
@@ -3861,6 +3876,18 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-09-07 16:49:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-07 17:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-09-07 17:42:13 +0000"
     },
     "done": true
   },
