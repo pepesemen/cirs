@@ -271,3 +271,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 17:57:28.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [07Sep2025 17:57:28.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [07Sep2025 17:57:28.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Sep2025 18:04:09.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[07Sep2025 18:04:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
