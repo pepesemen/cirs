@@ -258,3 +258,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Sep2025 16:54:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
 [07Sep2025 16:55:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Alex's Caves]
 [07Sep2025 16:56:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[07Sep2025 17:04:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick forgot Knight was a bioweapon
