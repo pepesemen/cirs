@@ -1223,6 +1223,7 @@
       "minecraft:lush_caves": "2025-09-04 03:54:04 +0000",
       "minecraft:windswept_forest": "2025-09-04 03:36:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-04 03:16:27 +0000",
+      "minecraft:snowy_beach": "2025-09-07 20:11:18 +0000",
       "minecraft:deep_dark": "2025-09-07 03:39:24 +0000",
       "minecraft:meadow": "2025-09-07 02:39:32 +0000",
       "minecraft:windswept_gravelly_hills": "2025-09-04 02:52:17 +0000",
@@ -3906,6 +3907,72 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-09-07 19:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-07 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-07 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-07 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-07 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_hazmat": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "spore:freezing_protocole": {
+    "criteria": {
+      "pick_up_cdu": "2025-09-07 20:04:42 +0000"
+    },
+    "done": true
+  },
+  "spore:saugling": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-07 20:04:45 +0000"
+    },
+    "done": true
+  },
+  "spore:plagued": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 20:07:22 +0000"
+    },
+    "done": true
+  },
+  "spore:bioblob": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 20:07:35 +0000"
+    },
+    "done": true
+  },
+  "spore:lacerator": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 20:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-07 20:17:43 +0000"
     },
     "done": true
   },
