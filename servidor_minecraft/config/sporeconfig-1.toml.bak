@@ -1,0 +1,204 @@
+"Living Exoskeleton" = {}
+
+["Despawning system"]
+	"Maximum number of regular infected" = 60
+	"Maximum number of evolved infected" = 35
+	"Maximum number of hyper infected" = 20
+	"Maximum number of organoids" = 40
+	"Maximum number of scents" = 30
+	"Mobs that will not be despawned by the system" = ["spore:proto", "spore:reconstructor", "spore:gastgaber", "spore:specter", "spore:inf_construct", "spore:scamper"]
+
+[Compatibilities]
+	#Default false
+	"Should there be a compatibility with FAW?" = false
+	#Default false
+	"Should there be a compatibility with Sculk Infection?" = false
+
+["Griefing Parameters"]
+	"The block breaking hardness of calamities" = 5
+	"The block breaking hardness of hyper evolveds" = 3
+	"The block breaking hardness of experiments" = 1
+
+["Global Variables"]
+	"The amount of needed Proto Hiveminds for the world to change (Proto World Modifier)" = 3
+	"Global Damage Modifier" = 1.0
+	"Global Health Modifier" = 1.0
+	"Global Armor Modifier" = 1.0
+	#Default true
+	"Should the infected be weak to cold?" = true
+	#Default true
+	"Should the infected starve overtime?" = true
+	#Default true
+	"Should certain mobs wear costumes on occasions?" = true
+	#Default false
+	"Should the costumes be always active?" = false
+	#Default true
+	"Should some infected have higher thinking such as opening doors or trying to break certain blocks?" = true
+	"Hunger in seconds" = 300
+	#Default false
+	"Move the hivemind to the surface once it forms?" = false
+	#Default true
+	"Should evolved and hyper have a damage cap on hard mode?" = true
+
+["Targeting Tasks"]
+	#Default true
+	"Should attack other mobs?" = true
+	#Default false
+	"Should attack Animals?" = false
+	"Mobs Not Targeted" = ["minecraft:creeper", "minecraft:allay", "minecraft:dolphin", "minecraft:glow_squid", "minecraft:squid", "minecraft:bat", "minecraft:armor_stand", "creeperoverhaul:", "sculkhorde:", "fromanotherworld:"]
+	"Mobs ALWAYS Targeted" = ["minecraft:villager", "minecraft:wandering_trader", "minecraft:iron_golem"]
+	"Mobs that will target infected" = ["minecraft:iron_golem", "minecraft:snow_golem", "guardvillagers:guard", "roamers:roamer"]
+	"Mobs that will run from infected" = ["minecraft:villager", "minecraft:wandering_trader", "roamers:bandit"]
+
+["Mob Roles, decides some of the interactions between the infected mobs"]
+	"Basic Infecteds" = ["spore:inf_human", "spore:inf_villager", "spore:inf_wanderer", "spore:inf_witch", "spore:inf_pillager", "spore:inf_player"]
+	"Evolved Infecteds" = ["spore:braiomil", "spore:knight", "spore:griefer", "spore:busser", "spore:spitter", "spore:leaper", "spore:slasher", "spore:howler", "spore:stalker", "spore:brute", "spore:inf_evoker", "spore:inf_vindicator"]
+	Support = ["spore:inf_witch", "spore:braiomil", "spore:howler", "spore:busser"]
+	Disposable = ["spore:inf_human", "spore:inf_villager", "spore:inf_wanderer", "spore:knight", "spore:griefer", "spore:slasher", "spore:volatile", "spore:inf_vindicator", "minecraft:creeper"]
+	Ranged = ["spore:spitter", "spore:inf_pillager", "spore:braiomil", "spore:inf_evoker"]
+
+["Mob Evolutions and Infection System"]
+
+	["Mob Evolutions and Infection System".Evolutions]
+		"Infected Human Evolutions" = ["spore:knight", "spore:griefer", "spore:braiomil", "spore:busser"]
+		"Infected Villager Evolutions" = ["spore:slasher", "spore:leaper", "spore:spitter"]
+		"Infected Pillager Evolutions" = ["spore:howler", "spore:stalker", "spore:brute"]
+		"Infected Witch Evolutions" = ["spore:volatile"]
+		"Infected Husk Evolutions" = ["spore:thorn", "spore:jagd", "spore:scavenger"]
+		"Infected Drowned Evolutions" = ["spore:bloater"]
+		"Infected Adventurer Evolutions" = ["spore:nuclea", "spore:protector"]
+		#Default 300
+		"Evolution Timer in seconds" = 300
+		#Default 1
+		"Minimum amount of kills to start the evolution" = 1
+		#Default 7
+		"Minimum amount of kills to start the hyper evolution" = 7
+
+	["Mob Evolutions and Infection System".Infections]
+		#Default true
+		"Should the player be infected on death?" = true
+		"Mobs and their infected counterparts" = ["minecraft:zombie|spore:inf_human", "minecraft:husk|spore:inf_husk", "minecraft:drowned|spore:inf_drowned", "minecraft:pillager|spore:inf_pillager", "minecraft:villager|spore:inf_villager", "guardvillagers:guard|spore:inf_villager", "recruits:recruit|spore:inf_villager", "recruits:bowman|spore:inf_villager", "recruits:recruit_shieldman|spore:inf_villager", "recruits:nomad|spore:inf_villager", "recruits:horseman|spore:inf_villager", "minecraft:witch|spore:inf_witch", "minecraft:wandering_trader|spore:inf_wanderer", "minecraft:evoker|spore:inf_evoker", "minecraft:vindicator|spore:inf_vindicator", "hunterillager:hunterillager|spore:inf_vindicator", "roamers:roamer|spore:inf_player", "roamers:bandit|spore:inf_player"]
+
+[Effects]
+	"Mobs that are immune to the mycelium infection" = ["minecraft:ghast", "minecraft:iron_golem", "minecraft:magma_cube", "minecraft:mooshroom", "minecraft:phantom", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:wither", "minecraft:skeleton"]
+	"Mobs that are damaged by corrosion" = ["minecraft:iron_golem"]
+
+[Mobs]
+
+	[Mobs."Infected Evoker"]
+		#Default 35
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Evoker Max health" = 35.0
+		#Default 7
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Evoker Damage" = 7.0
+		#Default 4
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Evoker Armor" = 4.0
+		#Default 15
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Claw Max health" = 15.0
+		#Default 7
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Claw Damage" = 7.0
+		#Default 3
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Claw Armor" = 3.0
+
+	[Mobs."Infected Vindicator"]
+		#Default 28
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Vindicator Max health" = 28.0
+		#Default 7
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Vindicator Damage" = 7.0
+		#Default 4
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Infected Vindicator Armor" = 4.0
+
+	[Mobs.Scavenger]
+		#Default 40
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Scavenger Max health" = 40.0
+		#Default 10
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Scavenger Damage" = 7.0
+		#Default 4
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Scavenger Armor" = 4.0
+
+	[Mobs.Hallucination]
+		#Default 4
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"The mental damage dealt by hallucinations" = 4.0
+		#Default 10%
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"chance for a hallucination to spawn when the victim is mad" = 10.0
+
+	[Mobs.Wendigo]
+		#Default 75
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Wendigo Max health" = 75.0
+		#Default 15
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Wendigo Damage" = 15.0
+		#Default 8
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Wendigo Armor" = 8.0
+		#Default true
+		"Should the wendigo take off ur armor?" = true
+
+	[Mobs.Inquisitor]
+		#Default 60
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Inquisitor Max health" = 60.0
+		#Default 20
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Inquisitor Damage" = 20.0
+		#Default 7
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Inquisitor Armor" = 7.0
+
+	[Mobs.Nuke]
+		#Default 6
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"The Damage range of the Nuke at max" = 6.0
+		#Default 10
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"The Damage of the Nuke" = 10.0
+		#Default 300
+		#Range: > 1
+		"The lifespan of a Nuke" = 300
+
+	[Mobs.Axtwerfer]
+		#Default 80
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Axtwerfer Max health" = 80.0
+		#Default 18
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Axtwerfer Damage" = 18.0
+		#Default 9
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Axtwerfer Ranged Damage" = 9.0
+		#Default 8
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Axtwerfer Armor" = 7.0
+
+	[Mobs.Ogre]
+		#Default 100
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Ogre Max health" = 100.0
+		#Default 20
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Ogre Damage" = 20.0
+		#Default 12
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Ogre Armor" = 12.0
+
+	[Mobs.Brotkatze]
+		#Default 70
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Brotkatze Max health" = 70.0
+		#Default 15
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Se
