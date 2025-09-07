@@ -3825,51 +3825,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-09-07 18:03:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-09-07 16:49:08 +0000"
-    },
-    "done": true
-  },
-  "spore:howler": {
-    "criteria": {
-      "hurt_infected": "2025-09-07 17:07:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-09-07 16:55:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-09-07 16:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-09-07 17:22:45 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-09-07 17:53:59 +0000"
-    },
-    "done": true
-  },
-  "spore:nuclea": {
-    "criteria": {
-      "hurt_infected": "2025-09-07 16:53:00 +0000"
     },
     "done": true
   },
@@ -3885,6 +3843,36 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-09-07 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 16:53:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-07 16:55:26 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 17:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-09-07 17:22:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-09-07 17:36:23 +0000"
@@ -3894,6 +3882,18 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-09-07 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-07 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-07 18:03:35 +0000"
     },
     "done": true
   },
