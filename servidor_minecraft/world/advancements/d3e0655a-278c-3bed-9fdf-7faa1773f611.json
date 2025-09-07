@@ -3828,6 +3828,12 @@
     },
     "done": true
   },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-09-07 17:07:49 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-09-07 16:55:26 +0000"
